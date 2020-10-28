@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<axis2 xmlns="http://www.netbeans.org/ns/axis2/1">
+    <service name="Calculator">
+        <service-class>App.Calculator</service-class>
+        <generate-wsdl targetNamespace="http://App/" schemaNamespace="http://App/xsd"/>
+    </service>
+</axis2>
